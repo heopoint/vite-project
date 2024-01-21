@@ -43,7 +43,7 @@
   font-size: 1.1rem;
 }
 @media (max-width: 800px){
-  .slkll__inner {
+  .skill__inner {
       flex-direction: column;
   }
   .skill__title {
